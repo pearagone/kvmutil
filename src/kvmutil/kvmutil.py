@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 import platform
 from enum import Enum, auto
 import argparse
